@@ -1,5 +1,5 @@
 # Crystal Collector game :gem:
-##  
+
 ### Columbia Engineering Full Stack Bootcamp - HomeWork #4
 
 This is a game written with **jQuery**, **Javascript**, **HTML** and **CSS**.
