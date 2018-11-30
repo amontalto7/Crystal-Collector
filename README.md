@@ -1,5 +1,5 @@
 # Crystal Collector game :gem:
-## unit-4-game 
+##  
 ### Columbia Engineering Full Stack Bootcamp - HomeWork #4
 
 This is a game written with **jQuery**, **Javascript**, **HTML** and **CSS**.
@@ -13,5 +13,7 @@ You win the game by matching your total score to the random number, you lose the
 The value of each crystal is hidden from you until you click on it.
 
 Each time the game restarts, the game will change the values of each crystal.
+
+Deployed version: [https://amontalto7.github.io/unit-4-game/](https://amontalto7.github.io/unit-4-game/)
 
 * Assignment details located on [GitLab](https://columbia.bootcampcontent.com/columbia-bootcamp/COLNYC201809FSF2/blob/master/01_homework/week_04/homework_instructions.md)
