@@ -14,6 +14,6 @@ The value of each crystal is hidden from you until you click on it.
 
 Each time the game restarts, the game will change the values of each crystal.
 
-Deployed version: [https://amontalto7.github.io/unit-4-game/](https://amontalto7.github.io/unit-4-game/)
+Deployed version: [https://amontalto7.github.io/Crystal-Collector/](https://amontalto7.github.io/Crystal-Collector/)
 
 * Assignment details located on [GitLab](https://columbia.bootcampcontent.com/columbia-bootcamp/COLNYC201809FSF2/blob/master/01_homework/week_04/homework_instructions.md)
